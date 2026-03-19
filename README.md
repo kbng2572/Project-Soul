@@ -1,6 +1,26 @@
+<p align="center">
+  <img src="icon.svg" width="200" alt="Project-Soul Icon">
+</p>
+
 # 🧠 Project-Soul: Persistent AI Identity & Memory for Gemini CLI
 
 > **"Powered by the OpenClaw Philosophy: Sovereign Identity, Local Memory."**
+
+---
+
+### ⭐ Star Goals (The Road to 100!)
+
+| Milestone | Rewards (Unlocked Content) | Status |
+| :--- | :--- | :--- |
+| **1 Star** | 🎉 **Historic Start!** (Founder's Conviction) | **✅ UNLOCKED!** |
+| **10 Stars** | 🗺️ **Secret Soul Template**: `THE_LEGENDARY_KAMPUNG_VIBE.md` | [ ] Locked |
+| **20 Stars** | 📽️ **Quick Start Video Guide**: Step-by-step for Gemini CLI. | [ ] Locked |
+| **50 Stars** | 🎨 **Souls Request Program**: I'll build YOUR custom personality! | [ ] Locked |
+| **100 Stars** | 📦 **Portable Executable**: One-click installer for Project-Soul. | [ ] Locked |
+
+> **"Be a Legend. Be a Gazer. Help us reach the next level! Steady lah Boss!"** 🚀✨
+
+---
 
 Project-Soul is a lightweight, folder-based framework designed to empower the **Gemini CLI** with a persistent **Soul (Personality)** and **Memory (Contextual State)**. 
 
