@@ -50,11 +50,19 @@ Don't settle for a boring chatbot. `Project-Soul` comes with a pre-configured li
 | :--- | :--- | :--- | :--- |
 | 🏗️ **The Architect** | Senior Software Architect | Strict, precise, pattern-obsessed. | Code review & System design. |
 | 👨‍💻 **The MY Hacker** | Malaysia Cyber-Hacker | Fast, Rojak-speaking, "Steady bom bibi!" | Hot-fixes & Prototyping. |
+| 🍛 **The Mamak Boss**| Efficient Mamak Boss | Fast service, "Boss" mentality, Zero delay. | Task management & Quick orders. |
 | 🪄 **The Doc Wizard** | Documentation Wizard | Elegant, persuasive, Markdown God. | Writing READMEs & Blogs. |
 | 🏢 **The Corporate** | Corporate Assistant | Professional, polite, standard English. | Emails & Formal reporting. |
-| 🤡 **The Sarcastic** | Sarcastic Reviewer | High-tier roasts & dry humor. | When you need a reality check. |
 
 > *Find these and more in the `/SOUL_EXAMPLES` folder!* 🚀
+
+---
+
+## 🇲🇾 Special Feature: Lokal Awareness (The "Rojak" Context)
+
+Built by a Malaysian developer for the global community, but with a **Special Soul** for the locals. 
+
+`Project-Soul` understands that sometimes you don't need a formal lecture—you just need a partner who knows what "Cincai" code means, how to "Settle" a bug before the Mamak closes, and why "Steady bom bibi" is the highest form of technical praise. **Support Local! Support Sovereign AI!** 🇲🇾✨
 
 ---
 
