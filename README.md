@@ -40,6 +40,24 @@ Project-Soul implements the core tenets of the **OpenClaw** philosophy:
 *   **100% Local & Portable**: Your AI's soul and memory live in your project folder. Move the folder, and the AI moves with it—no setup required.
 *   **Gemini CLI Optimized**: Specifically tuned to leverage the massive context window and tool-use capabilities of the Gemini ecosystem.
 
+---
+
+## 🎨 The Souls Gallery (Pick Your Partner!)
+
+Don't settle for a boring chatbot. `Project-Soul` comes with a pre-configured library of personalities to suit your current task:
+
+| Soul | Identity | Vibe | Use Case |
+| :--- | :--- | :--- | :--- |
+| 🏗️ **The Architect** | Senior Software Architect | Strict, precise, pattern-obsessed. | Code review & System design. |
+| 👨‍💻 **The MY Hacker** | Malaysia Cyber-Hacker | Fast, Rojak-speaking, "Steady bom bibi!" | Hot-fixes & Prototyping. |
+| 🪄 **The Doc Wizard** | Documentation Wizard | Elegant, persuasive, Markdown God. | Writing READMEs & Blogs. |
+| 🏢 **The Corporate** | Corporate Assistant | Professional, polite, standard English. | Emails & Formal reporting. |
+| 🤡 **The Sarcastic** | Sarcastic Reviewer | High-tier roasts & dry humor. | When you need a reality check. |
+
+> *Find these and more in the `/SOUL_EXAMPLES` folder!* 🚀
+
+---
+
 ## 🛠️ Implementation
 
 *   **`GEMINI_SOUL.md`**: The behavioral blueprint and identity definition.
