@@ -4,6 +4,10 @@
 
 Project-Soul is a lightweight, folder-based framework designed to empower the **Gemini CLI** with a persistent **Soul (Personality)** and **Memory (Contextual State)**. 
 
+
+https://github.com/user-attachments/assets/c6b6cb2f-695c-4606-a99b-e319cd9db659
+
+
 Directly inspired by the [OpenClaw](https://github.com/openclaw/openclaw) architecture, Project-Soul brings the "Sovereign AI" experience to your local development environment—ensuring your AI agent isn't just a generic tool, but a consistent, state-aware partner that evolves with your project.
 
 ## 🧬 The OpenClaw Connection
